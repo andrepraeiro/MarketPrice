@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\26586\\AndroidStudioProjects\\Market Price\\MarketPrice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\26586\\AndroidStudioProjects\\Market Price\\MarketPrice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\26586\\AndroidStudioProjects\\MarketPrice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\26586\\AndroidStudioProjects\\MarketPrice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
