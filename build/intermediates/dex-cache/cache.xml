@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\26586\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c1e3e8b4b5a199b7990718ad51b2b57f848ac5c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_bda041acb4ae3ae0406dcc887629d07458b7b41e.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_57b655d5da2a95ab22a9333a29043167c72732a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_79ebbf434bb317e43bafcafde7777c1102c34bb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e78e58e27ac68d5cf56b698e85d688e10746ad30.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="380ad0bbab13a1335c7c31023def539d9ca57bb2">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5f5c0cde9b93792f36e1db0cb459e278b8ba03f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_df48f6d755bc27eef81d0bf9088077c212d79a9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="745d2cc4bd06cc78a482855fe79c7b3fbfe82540">
+        <dex dex="C:\Users\26586\AndroidStudioProjects\MarketPrice\app\build\intermediates\pre-dexed\debug\instant-run_2d922767bbafd668ec00e754fdf74d587f36a314.jar" />
+    </item>
+
+</items>
