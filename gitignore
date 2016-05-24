@@ -2,3 +2,5 @@
 build/
 app/build/
 .gradle/
+MarketPrice.iml
+local.properties
